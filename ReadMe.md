@@ -7,6 +7,6 @@
 
 I'm aware that the same result can be achieved with a complex regular expression and only a few lines of code. On this occasion, however, I decided to come up with an alternative solution that is easier to read.
 
-# Java Version
+# Java version
 
 See addCommas.java
